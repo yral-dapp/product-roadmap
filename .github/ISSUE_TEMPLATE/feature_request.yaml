@@ -21,7 +21,7 @@ body:
     attributes: 
       label: Bussiness Document
       description: Product Requirement Document
-      placeholder: This could be input or link to a document covering the following details
+      placeholder: This could be input or link to a document covering the details that might be necessary. Example: Target Audience, Primary use case, Value Proposition, Success Metrics.
     validations:
       required: true
       
