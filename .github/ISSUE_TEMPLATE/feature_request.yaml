@@ -31,7 +31,6 @@ body:
       label: User Stories
       description: Write as many user stories as you can!
       placeholder: As a [type of user], I want to [perform an action] so that [I can achieve a goal].
-      value: "A bug happened!"
     validations:
       required: true
   - type: textarea
