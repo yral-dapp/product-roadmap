@@ -29,8 +29,7 @@ body:
     attributes:
       label: Acceptance Criteria
       description: Clearly define the specific conditions that must be met for this feature to be considered done from both business and technical perspectives. These criteria should be clear, measurable, and actionable for both teams. 
-      placeholder: The feature should allow users to log in using their Google account.
-The system should handle at least 100 concurrent logins without degradation in performance.
+      placeholder: The feature should allow users to log in using their Google account. The system should handle at least 100 concurrent logins without degradation in performance.
     validations:
       required: true
  
