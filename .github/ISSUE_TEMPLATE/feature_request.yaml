@@ -17,9 +17,9 @@ body:
       required: true
 
   - type: textarea
-    id: bussiness_document
+    id: business_document
     attributes: 
-      label: Bussiness Document
+      label: Business Document
       description: Product Requirement Document
       placeholder: This could be input or link to a document covering the details that might be necessary. Example Target Audience, Primary use case, Value Proposition, Success Metrics.
     validations:
