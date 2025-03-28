@@ -14,8 +14,7 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen? Feel free to use media attachments.
-      placeholder: Expected output and actual result. Screenshots/video recording. Any additional info.
-      value: "A bug happened!"
+      value: Expected output and actual result. Screenshots/video recording. Any additional info.
     validations:
       required: true
   - type: textarea
