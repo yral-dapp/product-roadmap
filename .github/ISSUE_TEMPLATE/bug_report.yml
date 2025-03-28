@@ -33,8 +33,8 @@ body:
         - iOS
         - Android
         - Web/m-Web
-      validations: 
-        required: true
+    validations: 
+      required: true
   - type: dropdown
     id: browsers
     attributes:
