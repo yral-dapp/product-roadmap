@@ -22,17 +22,19 @@ body:
     id: steps
     attributes: 
       label: Steps to Reproduce
+    validations:
       required: true
   - type: dropdown
     id: os
     attributes:
       label: What browsers are you seeing the problem on?
       multiple: true
-      required: true
       options: 
         - iOS
         - Android
-        - Desktop
+        - Web/m-Web
+      validations: 
+        required: true
   - type: dropdown
     id: browsers
     attributes:
